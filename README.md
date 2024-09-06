@@ -32,14 +32,17 @@ To set up the project locally, follow these steps:
    cd summariAI
    
 2. **Create and Activate Virtual Environment**
-python -m venv venv
-source venv/bin/activate
-# On Windows, use `venv\Scripts\activate`
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   On Windows, use `venv\Scripts\activate`
 
 3. **Install dependencies **
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
-4. **Start the Flask Server**
-flask run
+5. **Start the Flask Server**
+   ```bash
+   flask run
 
 
