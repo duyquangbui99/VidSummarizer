@@ -15,6 +15,7 @@ SummariAI is an AI-driven web application designed to automatically generate con
 - Flask
 - HTML, CSS, JavaScript
 - OpenAI's GPT Models
+- LangChain library
 
 ### Prerequisites
 - Python 3.8 or later
@@ -30,14 +31,15 @@ To set up the project locally, follow these steps:
    git clone https://github.com/yourusername/VidSummarizer.git
    cd summariAI
    
-### Create and Activate Virtual Environment
+2. **Create and Activate Virtual Environment**
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate
+# On Windows, use `venv\Scripts\activate`
 
-### Install Dependencies
+3. **Install dependencies **
 pip install -r requirements.txt
 
-### Start the Flask Server
+4. **Start the Flask Server**
 flask run
 
 
