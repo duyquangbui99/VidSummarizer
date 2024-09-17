@@ -5,6 +5,8 @@
 ## Description
 SummariAI is an AI-driven web application designed to automatically generate concise summaries from YouTube video transcripts. Leveraging OpenAI's GPT models and a robust Flask backend, this tool enhances content accessibility and digestibility, making it easier for users to grasp the essence of lengthy videos quickly.
 
+![Screenshot 2024-09-17 at 5 34 11 PM](https://github.com/user-attachments/assets/467d74dd-e8ea-4a61-8d87-9926145bdc5b)
+
 ## Features
 - **AI Summarization**: Utilizes advanced GPT models to transform video transcripts into informative summaries.
 - **User-Friendly Interface**: Provides a simple and intuitive web interface where users can input YouTube URLs and receive summaries instantly.
