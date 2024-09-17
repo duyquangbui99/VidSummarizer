@@ -40,6 +40,10 @@ To set up the project locally, follow these steps:
 3. **Install dependencies **
    ```bash
    pip install -r requirements.txt
+   
+3. **Have a valid OpenAI API key to your .env  **
+   ```bash
+   OPENAI_API_KEY=""
 
 5. **Start the Flask Server**
    ```bash
