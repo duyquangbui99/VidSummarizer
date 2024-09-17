@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Transcript Analyzer</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+
+<body>
+    <div class="content">
+        <h1>YouTube Video Sumarizer</h1>
+        <div class="container">
+            <div>
+                <input type="text" id="videoUrl" placeholder="Enter YouTube Video URL"
+                    style="width: 300px; padding: 15px;">
+                <button onclick="getResponse()" style="padding: 15px;">Get Transcript Analysis</button>
+            </div>
+            <div class="output" id="responseOutput">Video summary will appear here...
+                xplanation:
+                input-container class: This is where the input and button elements are wrapped. We added display: flex
+                to this container and applied gap: 20px; to create the desired space between the input and button.
+                .flex class: This already had display: flex; with flex-direction: column; to align the elements
+                vertically. The gap: 20px; here ensures a gap between the input/button section and the video embed
+                section.
+                Now, this will ensure that there’s a gap between the input and button, as well as a gap between the
+                video embed section and the input/button section.
+
+                Let me know if you need further adjustments!
+            </div>
+        </div>
+
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+
+</html>
