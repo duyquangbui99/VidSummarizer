@@ -37,11 +37,11 @@ To set up the project locally, follow these steps:
    source venv/bin/activate
    On Windows, use `venv\Scripts\activate`
 
-3. **Install dependencies **
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    
-3. **Have a valid OpenAI API key to your .env  **
+3. **Have a valid OpenAI API key to your .env**
    ```bash
    OPENAI_API_KEY=""
 
