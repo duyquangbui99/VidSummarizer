@@ -16,7 +16,7 @@ SummariAI is an AI-driven web application designed to automatically generate con
 ## Technologies Used
 - Flask
 - HTML, CSS, JavaScript
-- OpenAI's GPT Models
+- OpenAI's GPT Models, I am using GPT-4o-mini
 - LangChain library
 
 ### Prerequisites
