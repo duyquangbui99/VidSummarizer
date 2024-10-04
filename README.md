@@ -11,7 +11,6 @@ SummariAI is an AI-driven web application designed to automatically generate con
 - **AI Summarization**: Utilizes advanced GPT models to transform video transcripts into informative summaries.
 - **User-Friendly Interface**: Provides a simple and intuitive web interface where users can input YouTube URLs and receive summaries instantly.
 - **Responsive Design**: Ensures a seamless user experience across various devices and screen sizes.
-- **Security and Performance**: Integrates CORS policy for secure cross-origin resource sharing and is deployed on a scalable cloud platform.
 
 ## Technologies Used
 - Flask
